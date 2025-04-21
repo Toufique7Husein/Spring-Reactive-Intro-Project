@@ -4,7 +4,6 @@ package com.curde.demo.controller;
 import com.curde.demo.dto.GenericResponse;
 import com.curde.demo.dto.ProductDto;
 import com.curde.demo.service.ProductService;
-import com.oracle.svm.core.annotate.Delete;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 import reactor.core.publisher.Flux;
