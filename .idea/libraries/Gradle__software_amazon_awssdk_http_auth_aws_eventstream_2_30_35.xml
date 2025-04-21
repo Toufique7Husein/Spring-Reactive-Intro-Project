@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: software.amazon.awssdk:http-auth-aws-eventstream:2.30.35" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="software.amazon.awssdk" artifactId="http-auth-aws-eventstream" version="2.30.35" baseVersion="2.30.35" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/software.amazon.awssdk/http-auth-aws-eventstream/2.30.35/5b9d2a043dfb51bd0cbcd3a49b58ed1b2b9a1e8a/http-auth-aws-eventstream-2.30.35.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
